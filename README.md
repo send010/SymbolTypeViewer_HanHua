@@ -1,5 +1,5 @@
 # SymbolTypeViewer_HanHua
-SymbolTypeViewer_汉化
+对SymbolTypeViewer.exe 的汉化
 
 ## 文件列表
 1. SymbolTypeViewer.exe 源文件
