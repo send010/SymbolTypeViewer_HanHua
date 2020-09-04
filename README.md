@@ -1,0 +1,2 @@
+# SymbolTypeViewer_HanHua
+SymbolTypeViewer_汉化
